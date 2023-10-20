@@ -16,18 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 😄
-I'm an undergraduate student with a passion for artificial intelligence, specifically deep learning and reinforcement learning. I'm enthusiastic about learning and conducting research to push the boundaries of AI technology. Collaborating with fellow enthusiasts to discover new insights is something I greatly enjoy.
+I'm an undergraduate student with a passion for artificial intelligence, specifically Generative AI on NLP and Computer Vision. I'm enthusiastic about learning and conducting research to push the boundaries of AI technology. Collaborating with fellow enthusiasts to discover new insights is something I greatly enjoy.
 
 ## Currently Learning 🔭
-* Artificial Intelligence
-* Research
-* Deep Learning
-* Reinforcement Learning
+* Generative Models
+* Efficient Computing
+* Cloud Computing
+* Model Deployment
 * Python
 * C++
 * TensorFlow
+* PyTorch
 * MongoDB
-* Flask
+* Django
 
 ## Projects 📚
 1. IntelliRoom, Smart City and Cybersecurity Laboratory Flagship Project, Department of Information Technology ITS
@@ -35,6 +36,10 @@ I'm an undergraduate student with a passion for artificial intelligence, specifi
 3. Avalon.AI and EDG Analytica Collaboration: Optimizing CM Algorithm Performance Using Deep Reinforcement Learning, an AI For Finance Project
 4. Towards Explainable Generative AI (XGAI) Implementation on Open-Source Intelligence (OSINT) for Security Information and Event Management (SIEM) Optimality: OWASP Maryam V2
 5. The AI and IoT Club Project: Self-driving Car Using Computer Vision and Deep Reinforcement Learning, Department of Information Technology ITS
+6. FusedTransformer, a Robust Transformer Architecture Specialized for Indonesian Speech-to-text
+7. Multi-pose Expressive Realistic Learning for Individual Nuances in Attire (MERLIN), a Utilized Generative Adversarial Transformer for Person's Pose and Fashion Image Generation
+8. Towards Robust Intrusion Detection System Through Data Augmentation Using Generative Adversarial Networks on NSL-KDD Dataset
+9. TinyML Implementation for Age Classification Using Optimized Deep Neural Network Architecture on Arduino BLE33 Sense Kit
 ## How to Reach Me 📫
 If you would like to collaborate, discuss a project, or simply connect, feel free to reach out to me via the following channels:
 
