@@ -38,7 +38,7 @@ I'm an undergraduate student with a passion for artificial intelligence, specifi
 5. The AI and IoT Club Project: Self-driving Car Using Computer Vision and Deep Reinforcement Learning, Department of Information Technology ITS
 6. FusedTransformer, a Robust Transformer Architecture Specialized for Indonesian Speech-to-text
 7. Multi-pose Expressive Realistic Learning for Individual Nuances in Attire (MERLIN), a Utilized Generative Adversarial Transformer for Person's Pose and Fashion Image Generation
-8. Towards Robust Intrusion Detection System Through Data Augmentation Using Generative Adversarial Networks on NSL-KDD Dataset
+8. Towards Robust Intrusion Detection System Through Data Augmentation Using Generative Adversarial Networks and eXtreme Gradient Boosting (XGBoost) Algorithm on NSL-KDD Dataset
 9. TinyML Implementation for Age Classification Using Optimized Deep Neural Network Architecture on Arduino BLE33 Sense Kit
 ## How to Reach Me 📫
 If you would like to collaborate, discuss a project, or simply connect, feel free to reach out to me via the following channels:
