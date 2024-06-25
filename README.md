@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Kevin</h1>
-<h3 align="center">I'm an artificial intelligence researcher and CEO of Avalon AI. My field of research is in Generative AI. I'm enthusiastic about learning and conducting research to push the boundaries of AI technology. Collaborating with fellow enthusiasts to discover new insights is something I greatly enjoy.</h3>
+<h3 align="center">I'm an artificial intelligence researcher and CEO of Avalon AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echelon2718&label=Profile%20views&color=0e75b6&style=flat" alt="echelon2718" /> </p>
 
