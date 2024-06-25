@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AI, Deep Learning, Python, Pytorch, Tensorflow, ML Deployments**
 
-- 📫 How to reach me **kevinputrasantoso@gmail.com**
+- 📫 Reach me via **kevinputrasantoso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
