@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **LLMs, RAG, KnowledgeGraphDB, VectorDB, and Diffusion Models**
 
-- 👯 I’m looking to collaborate on [ShinkaiGAN](https://github.com/echelon2718/ShinkaiGAN/)
-
 - 💬 Ask me about **AI, Deep Learning, Python, Pytorch, Tensorflow, ML Deployments**
 
 - 📫 Reach me via **kevinputrasantoso@gmail.com**
